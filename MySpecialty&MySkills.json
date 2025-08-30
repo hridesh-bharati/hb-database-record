@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Photoshop",
+    "percent": 75,
+    "color": "#FF5733"
+  },
+  {
+    "name": "jQuery",
+    "percent": 60,
+    "color": "#3498DB"
+  },
+  {
+    "name": "HTML5",
+    "percent": 85,
+    "color": "#E44D26"
+  },
+  {
+    "name": "CSS3",
+    "percent": 90,
+    "color": "#264DE4"
+  },
+  {
+    "name": "WordPress",
+    "percent": 70,
+    "color": "#21759B"
+  },
+  {
+    "name": "SEO",
+    "percent": 80,
+    "color": "#28A745"
+  }
+]
