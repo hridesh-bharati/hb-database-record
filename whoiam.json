@@ -1,0 +1,30 @@
+{
+  "about": {
+    "title": "Who am I?",
+    "description": "Hridesh Bharati is a skilled web developer and educator. Currently serving as a programmer and lab in-charge at Drishtee Computer Center, he combines his development expertise with a passion for teaching. From creating robust digital solutions to mentoring aspiring developers, Hridesh believes in empowering others through technology."
+  },
+  "contact": {
+    "phone": "+91 7267995307",
+    "email": "hrideshbharati027@gmail.com"
+  },
+  "socialLinks": [
+    {
+      "icon": "bi-github",
+      "url": "https://github.com/your-username",
+      "color": "#333",
+      "label": "GitHub"
+    },
+    {
+      "icon": "bi-linkedin",
+      "url": "https://www.linkedin.com/in/your-username",
+      "color": "#0A66C2",
+      "label": "LinkedIn"
+    },
+    {
+      "icon": "bi-twitter",
+      "url": "https://twitter.com/your-username",
+      "color": "#1DA1F2",
+      "label": "Twitter"
+    }
+  ]
+}
