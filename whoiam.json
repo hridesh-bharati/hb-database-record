@@ -26,6 +26,12 @@
       "url": "https://twitter.com/your-username",
       "color": "#1DA1F2",
       "label": "Twitter"
+    },
+    {
+      "icon": "bi-instagram",
+      "url": "https://instagram.com/2webdeveloper",
+      "color": "#fc0000",
+      "label": "Instagram"
     }
   ]
 }
